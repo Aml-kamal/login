@@ -1,0 +1,15 @@
+body{
+    background-color: #24353f;
+}
+h1{
+    color: #17a2b8;
+}
+.item{
+    box-shadow: -3px 2px 55px -7px rgb(0, 0, 0);
+}
+input{
+    background-color: transparent !important;
+}
+.form-control:focus{
+    box-shadow: none;
+}
